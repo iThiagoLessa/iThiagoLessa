@@ -1,7 +1,6 @@
 ### Hi Folks! 👋
 
-Me nome é Thiago Lessa, tenho 26 anos e sou do Rio de Janeiro - Brasil. Trabalho como Desenvolvedor Front-End desde 2014, e é uma área em que sou completamente apaixonado e
-busco sempre aprender cada vez mais.
+Meu nome é Thiago Lessa, tenho 26 anos e sou do Rio de Janeiro - Brasil. Trabalho como Desenvolvedor Front-End desde 2014, e é uma área em que sou completamente apaixonado e busco sempre aprender cada vez mais.
 
 ## 🛠 Tecnologias
 
