@@ -21,6 +21,7 @@ Meu nome é Thiago Lessa, tenho 26 anos e sou do Rio de Janeiro - Brasil. Trabal
 ![alt text](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![alt text](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![alt text](https://img.shields.io/badge/React.Native-000000?style=for-the-badge&logo=react&logoColor=white)
+![alt text](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=react&logoColor=white)
 
 ## 🔍 Onde me encontrar
 
