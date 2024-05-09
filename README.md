@@ -25,4 +25,4 @@ Meu nome é Thiago Lessa, tenho 27 anos e sou do Rio de Janeiro - Brasil. Trabal
 
 ## 🔍 Onde me encontrar
 
-[![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-lessa-67588056/) [![Foo](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ThiagoLost/) [![Foo](https://img.shields.io/badge/Instagram-5054BA?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ithiagolessa/)
+[![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-lessa-67588056/)
